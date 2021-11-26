@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+p {
+  color: gold;
+  color: orchid;
+  color: lightskyblue;
+  color: lightseagreen;
+  color: salmon;
+  color: lawngreen;
+  color: darkorange;
+  color: cornsilk;
+
+}
